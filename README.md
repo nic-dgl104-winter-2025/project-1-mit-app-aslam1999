@@ -107,3 +107,5 @@
 9.  **Conclusion**
     The Donation App is a functional and user-friendly tool for managing donations. It demonstrates the use of MIT App Inventor's visual programming capabilities to create a practical application. With further enhancements, the app can be expanded to include more advanced features and integrations.
 
+
+(Note: Please make sure the screen1 and screen2 should be reversed. As the home page has been created first then later on login page has been created. Screen1 is Login and Screen2 is Home page as per document and project, whereas in aia file it is reverse. So, Kindly open screen 2 and start testing the app.)
