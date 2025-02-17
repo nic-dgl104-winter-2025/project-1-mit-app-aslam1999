@@ -30,20 +30,24 @@
    1. **Screen 1: Login Screen**
         - TextBox for username and password.
         - Button to submit the credentials and login.
+        ![alt text](<images/Screen 1.png>)
         
    2. **Screen 2: Home Page** 
         - Buttons for donation categories: Food, Clothes, Groceries, Money.
         - Button to view past donations.
-    
+        ![alt text](<images/Screen 2.png>)
+
    3. **Screen 3: Donation Form**
         - TextBoxes for name, item, quantity, and amount.
         - Spinner for selecting donation category.
         - Button to submit and save donation details.
-    
+        ![alt text](<images/Screen 3.png>)
+
    4. **Screen 4: Donation List**
         - ListView to display all donations.
         - Button to return to the home screen.
-  
+        ![alt text](<images/Screen 4.png>)
+        
   (Note: Home screen is created first and later remembered of login page and created it later. As a result, The first screen technically on app is home screen bymistake. You can redirect and start from login page.)
 
 
