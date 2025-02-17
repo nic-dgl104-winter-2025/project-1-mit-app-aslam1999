@@ -110,9 +110,9 @@
    - Verify that donation records are stored and retrieved correctly.
    4.  **Dynamic UI**:
    - Check that the correct input fields are shown/hidden based on the selected category.
+   - ![alt text](<images/Testing Screenshots/Wrong password SS.jpg>)
    - ![alt text](<images/Testing Screenshots/Home page.jpg>)
    - ![alt text](<images/Testing Screenshots/Input SS.jpg>)
-   - ![alt text](<images/Testing Screenshots/Wrong password SS.jpg>)
    - ![alt text](<images/Testing Screenshots/Money selection SS.jpg>)
    - ![alt text](<images/Testing Screenshots/Clothes selection SS.jpg>)
    - ![alt text](<images/Testing Screenshots/Notifier SS.jpg>)
