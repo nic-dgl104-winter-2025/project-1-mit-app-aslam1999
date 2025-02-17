@@ -47,7 +47,7 @@
         - ListView to display all donations.
         - Button to return to the home screen.
         ![alt text](<images/Screen 4.png>)
-        
+
   (Note: Home screen is created first and later remembered of login page and created it later. As a result, The first screen technically on app is home screen bymistake. You can redirect and start from login page.)
 
 
@@ -110,7 +110,12 @@
    - Verify that donation records are stored and retrieved correctly.
    4.  **Dynamic UI**:
    - Check that the correct input fields are shown/hidden based on the selected category.
-
+   - ![alt text](<images/Testing Screenshots/Home page.jpg>)
+   - ![alt text](<images/Testing Screenshots/Input SS.jpg>)
+   - ![alt text](<images/Testing Screenshots/Wrong password SS.jpg>)
+   - ![alt text](<images/Testing Screenshots/Money selection SS.jpg>)
+   - ![alt text](<images/Testing Screenshots/Clothes selection SS.jpg>)
+   - ![alt text](<images/Testing Screenshots/Notifier SS.jpg>)
 
 9.  **Conclusion**
     The Donation App is a functional and user-friendly tool for managing donations. It demonstrates the use of MIT App Inventor's visual programming capabilities to create a practical application. With further enhancements, the app can be expanded to include more advanced features and integrations.
