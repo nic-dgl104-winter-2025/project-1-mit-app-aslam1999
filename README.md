@@ -63,13 +63,16 @@
 6. **Block Logic**
    1. **Screen 1: Login Screen**
      - `btnLogin.Click` Opens screen 2 if username and password are correct. Else set `Label_Message.Text` to "Invalid Username or Password" message.
-  
+  ![alt text](<images/Screen 1 Blocks.png>)
+
+
    2. **Screen 2: Home Page** 
      - `btnFood.Click`: Opens Screen2 and sets the category to "Food".
      - `btnClothes.Click`: Opens Screen2 and sets the category to "Clothes".
      - `btnGroceries.Click`: Opens Screen2 and sets the category to "Groceries".
      - `btnMoney.Click`: Opens Screen2 and sets the category to "Money".
-     - `btnViewDonations.Click`: Opens Screen3 to display past donations.
+     - `btnViewDonations.Click`: Opens Screen3 to display past donations.  
+![alt text](<images/Screen 2 Blocks.png>)
 
    3. **Screen 3: Donation Form** 
      - **Screen Initialization**:
@@ -81,6 +84,7 @@
        - Store the formatted string in TinyDB.
        - Show a confirmation message using Notifier.
        - Return to the Home Screen.
+![alt text](<images/Screen 3 Blocks.png>)
 
    4. **Screen 4: Donation List**
      - **Screen Initialization**:
@@ -88,7 +92,7 @@
        - Display the records in `listDonations`.
      - **Back Button**:
        - `btnBackToHome.Click`: Opens Screen2(Home Page).
-
+![alt text](<images/Screen 4 Blocks.png>)
 
 7. **Data Storage**
     - **TinyDB** is used to store donation records locally on the device.
